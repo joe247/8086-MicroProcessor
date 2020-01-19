@@ -1,27 +1,30 @@
-Step1: Download Softwares and Extract Them
------------------------------------------------------------
-//Note: Password is used for ZIP Archives to avoid Spamming, Pls note it
+# Step1: Download Softwares and Extract Them
+
+
+*Note: Password is used for ZIP Archives to avoid Spamming*
+
 For XP Users: 
 
 MASM611 By INTEL
 link: http://www6.zippyshare.com/v/48109267/file.html
 pass: allthebest
 
-For Vista/7/8/8.1/VM OS
+For Vista/7/8/8.1/VM OS:
 
 MASM611 By Intel
 link:  http://www6.zippyshare.com/v/48109267/file.html
 pass: allthebest
 
-DOS BOX 
+DOS BOX
 link:  http://www6.zippyshare.com/v/24769611/file.html
 pass: allthebest
 
-//Note: DOS Box is required for linking and debugging the ASM Program
+*Note: DOS Box is required for linking and debugging the ASM Program*
 
 
-Step2: Install Softwares
-------------------------------------------------------------
+Step2: INSTALL SOFTWARE
+---
+
 For XP Users:
 
 Copy MASM611 Folder to C Drive
@@ -29,7 +32,7 @@ Go to MASM611 -> DISK1 -> Click Setup.exe
 Install in C Drive
 
 
-For Vista/7/8/8.1/VM OS
+For Vista/7/8/8.1/VM OS:
 
 Copy MASM611 Folder to any drive other than C (C uses Permission and Stuff)
 Go to MASM611 -> DISK1 -> Click Setup.exe
@@ -41,7 +44,8 @@ You should find the following
 MASM.EXE, LINK.EXE,DEBUG.EXE,AFDEBUG.EXE
 
 STEP3: INSTALLATION OF DOS BOX (Only For Vista/7/8/8.1/VM OS)
---------------------------------------------------------------
+---
+
 Install DOS BOX as a normal software in C Drive
 Now go to installed Location -> DOS BOX -> DOS BOX Options,
 else you can even search for DOS BOX Options in start menu
@@ -59,7 +63,7 @@ Now open DOS BOX,
 your path should be E:\MASM611\BIN, else you have missed Something!!
 
 STEP4: EXECUTION
----------------------------------------------------------------
+---
 
 For XP Users
 
@@ -73,7 +77,6 @@ Now you can start creating and executing programs
 For Vista/7/8/8.1/VM OS (Advantage ;))
 You are already in BIN, so you can readily start editing and executing your programs
 
-Note: Use ALT+TAB to get Full screen in CMD as well as on DOS BOX
+Note: Use <kbd>ALT</kbd>+<kbd>ENTER</kbd> to get full screen in CMD as well as on DOS BOX
 
 Thats it Folks !! Have Fun Coding!! ;)
-
